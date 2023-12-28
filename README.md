@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=handeuygunn&show_icons=true&locale=en" alt="handeuygunn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=handeuygunn&" alt="handeuygunn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=handeuygunn&color=282a36" alt="handeuygunn" /></p>
 
 
 [![huygun's 42 stats](https://badge.mediaplus.ma/starryblue/huygun?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
