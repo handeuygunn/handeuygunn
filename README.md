@@ -2,8 +2,8 @@
 <h3 align="center">I love learning new things and I develop new projects. I am very enthusiastic about coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handeuygunn&label=Profile%20views&color=0e75b6&style=flat" alt="handeuygunn" /> </p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=handeuygunn&bg_color=805AD5,AC68F7,D1A5FF" alt="handeuygunn" /></a> </p>
+
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin"><img src="https://github-profile-trophy.vercel.app/?username=handeuygunn&bg_color=805AD5,AC68F7,D1A5FF" alt="handeuygunn" /></a> </p>
 
 - 🔭 I’m currently working on **Philosophers**
 
