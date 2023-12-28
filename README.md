@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=handeuygunn&label=Profile%20views&color=0e75b6&style=flat" alt="handeuygunn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=handeuygunn&color=805AD5,AC68F7,D1A5FF" alt="handeuygunn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=handeuygunn&bg_color=805AD5,AC68F7,D1A5FF" alt="handeuygunn" /></a> </p>
 
 - 🔭 I’m currently working on **Philosophers**
 
