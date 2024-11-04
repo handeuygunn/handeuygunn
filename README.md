@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/handeuygunn](https://github.com/handeuygunn)
 
-- 💬 Ask me about **C, C#, Python, PHP, Javascript.**
+- 💬 Ask me about **C, C#, Python, Java.**
 
 - 📫 How to reach me **uygun313.313@gmail.com**
 
