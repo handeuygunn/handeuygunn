@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Turkcell GYK AI PROGRAM**
 
-- 🌱 I’m currently learning **AI, Machine Learning, OOP.**
+- 🌱 I’m currently learning **AI, Machine Learning, Deep Learning, OOP.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/handeuygunn](https://github.com/handeuygunn)
 
