@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, Machine Learning, Deep Learning, OOP.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/handeuygunn](https://github.com/handeuygunn) and https://www.kaggle.com/handeuygun
+- 👨‍💻 All of my projects are available at [https://github.com/handeuygunn](https://github.com/handeuygunn) , https://www.kaggle.com/handeuygun and https://huggingface.co/handeuygun
 
 - 💬 Ask me about **Python,Java,C.**
 
