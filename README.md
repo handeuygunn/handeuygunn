@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hande.</h1>
 <h3 align="left">I love learning new things and I develop new projects. I am very enthusiastic about coding.</h3>
 
-- 🔭 I’m currently working on **Turkcell GYK AI PROGRAM**
+- 🔭 I’m currently working on **AI COMPETITIONS**
 
 - 🌱 I’m currently learning **AI, Machine Learning, Deep Learning, OOP.**
 
