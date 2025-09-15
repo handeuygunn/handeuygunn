@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I love skateboarding.**
 
 <p align="center">
-	<img alt="elifkaragoz's visitors" src="https://komarev.com/ghpvc/?username=handeuygunn&color=8c36db&style=flat&label=visitors" />
-	<img alt="elifkaragoz's followers" src="https://img.shields.io/github/followers/handeuygunn?color=blueviolet" />
-	<img alt="elifkaragoz's stars" src="https://img.shields.io/github/stars/handeuygunn?color=blueviolet" />
+	<img alt="handeuygunn's visitors" src="https://komarev.com/ghpvc/?username=handeuygunn&color=8c36db&style=flat&label=visitors" />
+	<img alt="handeuygunn's followers" src="https://img.shields.io/github/followers/handeuygunn?color=blueviolet" />
+	<img alt="handeuygunn's stars" src="https://img.shields.io/github/stars/handeuygunn?color=blueviolet" />
 </p>
